@@ -71,7 +71,8 @@ Fait en Python avec Selenium et Pyautogui pour la partie code et en Qt pour la p
 
 <br>
 
-https://github.com/alexiglnt/Kamikaze-Bot/raw/main/images/video-demo.mp4
+![Demo]([https://github.com/alexiglnt/Kamikaze-Bot/blob/main/images/demo-ui.png?raw=true](https://youtu.be/3k4qPbycAE0))
+
 
 <br><br><br>
 
