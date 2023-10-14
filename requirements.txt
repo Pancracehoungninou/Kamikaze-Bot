@@ -1,0 +1,4 @@
+PyQt5
+selenium
+pyautogui
+pyobjc; sys_platform == 'darwin'
