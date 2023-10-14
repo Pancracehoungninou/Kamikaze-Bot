@@ -1,6 +1,6 @@
 # Kamikaze-Bot 🤖
 Spam BOT discord (se connecte automatiquement et envoie des GIFs dans les salons du channel choisi)
-Fait en Python avec Selenium et Pyautogui
+Fait en Python avec Selenium et Pyautogui pour la partie code et en Qt pour la partie interface/UI
 
 <br>
 
@@ -71,7 +71,7 @@ Fait en Python avec Selenium et Pyautogui
 
 <br>
 
-![alt text](https://github.com/alexiglnt/Kamikaze-Bot/blob/main/images/video-demo.png?raw=true)
+![alt text](https://github.com/alexiglnt/Kamikaze-Bot/blob/main/images/video-demo.mp4?raw=true)
 
 <br><br><br>
 
